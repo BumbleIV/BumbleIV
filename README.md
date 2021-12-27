@@ -4,7 +4,11 @@
 - [] I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science. 
 - [] At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
 - [] I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
-- [] As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions!
+- [] As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions](https://github.com/BumbleIV/BumbleIV#kaggle-submissions)!
+
+### Contact me if you'd like to talk or to request a copy of my resume!
+- [] [LinkedIn])(https://www.linkedin.com/in/davidcodylingan/)
+- [] Email: linganda@msu.edu
 
 
 ### Research
