@@ -2,11 +2,8 @@
 
 ### About me: 
 - [] I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science. 
-
 - [] At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
-
 - [] I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
-
 - [] As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions!
 
 
@@ -17,7 +14,9 @@
 - [] As a Data Analyst intern for Michigan State University's College of Engineering Career Center, I lead the Diversity, Equity, and Inclusion (DEI) Survey. This project involves the construction of a simple Qualtrics survey to be distributed amongst multiple companies of our interest. These companies will provide numerics on their employee demographics such as race, ethnicity, nationality, etc. that will be processed to visually inform employment-seeking MSU students' decisions. I frequently work with languages, frameworks, and other relevant tools such as **Python to clean the data, SQL to manage and store the data, and Tableau to visualize and further investigate the data.** The motivation behind the DEI Project is to visually inform the decisions employment-seeking MSU students and prevent them from joining misogynistic, xenophobic, homophobic, racist, etc., discriminatory companies!
 
 ### Kaggle Submissions
-- [] Kaggle is a home for data scientists to collaborate over data! It's also a host for numerous machine learning competitions for data scientists of all levels to compete in (though majority of participants are well-versed professionals with years of experience in the field.) The valuable insight and domain knowledge I gain from comparing my code to the code of other data nerds is my incentive to compete! Here is a list of my submissions!
+- [] Kaggle is a home for data scientists to collaborate over data! It's also a host for numerous machine learning competitions for data scientists of all levels to compete in (though majority of participants are well-versed professionals with years of experience in the field.) The valuable insight and domain knowledge I gain from comparing my code to the code of other data nerds is my incentive to compete! 
+
+Here is a list of my submissions!
 - [0] I’m currently developing a [Connect 4 Reinforcement Learning Agent]()
 - [1]
 - [2]
