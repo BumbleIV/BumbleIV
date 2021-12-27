@@ -1,5 +1,7 @@
-### Hello! 👋 My (first and legal) name is David Cody. 
+### 👋 Hello! My (first and legal) name is David Cody. 
+### I am an **Honors College freshman** at **Michigan State University** pursuing a double degree in **Computer Science and Statistics** actively seeking **2022 summer internship** opportunities for **software engineering** or **data science**.
 
+<<<<<<< HEAD
 
 About me: I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science.
 
@@ -13,4 +15,3 @@ What I'm up to:
 
 # Side Projects
 - 🔭 I’m currently developing a [Connect 4 Reinforcement Learning Agent](https://www.linkedin.com/in/davidcodylingan)
-
