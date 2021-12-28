@@ -2,6 +2,8 @@
 
 ### About me: 
 ---
+![MSU White (128x128)](https://user-images.githubusercontent.com/67522964/147609704-d7a94314-68d0-44c8-9488-aab8e8d3acb2.png)
+
 - [] I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science. 
 - [] At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
 - [] I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
