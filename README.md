@@ -1,5 +1,4 @@
 ### 👋 Hello! I'm David Cody :)
-![Michigan_State_Athletics_logo svg](https://user-images.githubusercontent.com/67522964/147583360-5ada9510-122e-4adc-93a5-fa0db6099a8b.png | =600x692)
 
 ### About me: 
 ---
