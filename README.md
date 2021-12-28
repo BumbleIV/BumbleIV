@@ -1,22 +1,22 @@
 ### Hello! I'm David Cody 👋 
 
-### Languages & Tools
-https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
+---
+#### Languages & Tools
+
+<img align="left" alt="visual-studio-code" width="32px" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" /> <img align="left" alt="python" width="32px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> <img align="left" alt="java" width="32px" src="https://unpkg.com/simple-icons@v6/icons/java.svg" /> <img align="left" alt="cpp" width="32px" src="https://unpkg.com/simple-icons@v6/icons/cplusplus.svg" /> <img align="left" alt="flask" width="32px" src="https://unpkg.com/simple-icons@v6/icons/flask.svg" /> <img align="left" alt="git" width="32px" src="https://unpkg.com/simple-icons@v6/icons/git.svg" /> <img align="left" alt="git" width="32px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" /> <img align="left" alt="git" width="32px" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" /> 
 
 
-### Connect with me!
+
+#### Connect with me!
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/davidcodylingan/)
 
-###   About me: 
+### 👍 About me: 
 ---
-- [] I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science. 
-- [] At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
-- [] I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
-- [] As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions](https://github.com/BumbleIV/BumbleIV#kaggle-submissions)!
+- I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics actively seeking 2022 summer internship opportunities for software engineering or data science. 
+- At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
+- I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
+- As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions](https://github.com/BumbleIV/BumbleIV#kaggle-submissions)!
 
-### Contact me if you'd like to talk or to request a copy of my resume!
-- <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/davidcodylingan/)
-- [] Email: linganda@msu.edu
 
 
 ### 🔬 Research
