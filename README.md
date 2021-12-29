@@ -24,11 +24,9 @@
 ---
 
 #### 🎧 What I'm Listening to: 
-<img align="middle" alt="spotify" width="300px" src="https://novatorem-bumbleiv.vercel.app/api/spotify" />
+<img align="bottom" alt="spotify" width="300px" src="https://novatorem-bumbleiv.vercel.app/api/spotify" />
 
-&nbsp;
 #### 🖥 Programming Languages, Frameworks, Tools 
-
 <img align="left" alt="python" width="32px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> 
 <img align="left" alt="flask" width="32px" src="https://unpkg.com/simple-icons@v6/icons/flask.svg" /> 
 <img align="left" alt="tensorflow" width="32px" src="https://unpkg.com/simple-icons@v6/icons/tensorflow.svg" />  
