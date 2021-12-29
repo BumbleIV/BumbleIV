@@ -75,6 +75,10 @@ Here is a list of my submissions!
 - [0] I’m currently developing a [Connect 4 Reinforcement Learning Agent]() as my first competition submission!
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
+3. 💪 Opened PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
+<!--END_SECTION:activity-->
 
 
 
