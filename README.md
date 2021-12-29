@@ -14,7 +14,7 @@
 
 
 ---
-#### Languages & Tools 
+#### Programming Languages, Frameworks, Tools 
 
 <img align="left" alt="python" width="32px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> 
 <img align="left" alt="flask" width="32px" src="https://unpkg.com/simple-icons@v6/icons/flask.svg" /> 
