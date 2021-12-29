@@ -14,7 +14,8 @@
 ---
 
 #### 🎧 What I'm Listening to:
-<img align="left" alt="r" width="32px" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" /> 
+<img align="left" alt="r" width="32px" src="https://unpkg.com/simple-icons@v6/icons/spotify.svg" />
+
 [![Spotify](https://novatorem-bumbleiv.vercel.app/api/spotify)](https://open.spotify.com/user/pythong)
 
 
