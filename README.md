@@ -50,7 +50,7 @@
 
 **📈 I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center.**
 
-**🌱 As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster!**
+**🌱 As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://github.com/BumbleIV/BumbleIV/blob/main/README.md#-kaggle-submissions) Grandmaster!**
 
 ### 🏆 Accomplishments <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
