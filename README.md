@@ -86,13 +86,19 @@ Here is a list of my submissions!
 - [0] I’m currently developing a [Connect 4 Reinforcement Learning Agent]() as my first competition submission!
 
 
-### 📜 GitHub Activity <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
+### 📜 Other Activity <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🎉 Merged PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
-3. 💪 Opened PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
-<!--END_SECTION:activity-->
+
+<details>
+  <summary>:zap: GitHub Activity </summary>
+  
+  <!--START_SECTION:activity-->
+  1. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+  2. 🎉 Merged PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
+  3. 💪 Opened PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
+  <!--END_SECTION:activity-->
+  
+ </details>
 
 
 
