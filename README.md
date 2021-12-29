@@ -42,15 +42,15 @@
 
 ### 👍 About Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
-📕 I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics.
+**📕 I am an Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics.**
 
-🔭 Actively seeking 2022 summer internship opportunities for software engineering or data science. 
+**🔭 Actively seeking 2022 summer internship opportunities for software engineering or data science.**
 
-🤖 At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.
+**🤖 At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.**
 
-📈 I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center. 
+**📈 I'm also a [Data Analyst](https://github.com/BumbleIV/BumbleIV#internships) for my university's engineering career center.**
 
-🌱 As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster! Take a look at my [Kaggle submissions](https://github.com/BumbleIV/BumbleIV#kaggle-submissions)!
+**🌱 As of December 25, 2021, I have begun my journey to becoming a [Kaggle](https://www.kaggle.com/competitions) Grandmaster!**
 
 ### 🏆 Accomplishments <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
