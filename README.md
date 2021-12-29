@@ -11,7 +11,9 @@
 <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147622280-5415802a-9ba2-4c09-be56-aad00b64e1e0.gif" /> 
 
 ### 👋  Hello! I'm David Cody. <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
+---
 
+#### 🎧 What I'm Listening to:
 [![Spotify](https://novatorem-bumbleiv.vercel.app/api/spotify)](https://open.spotify.com/user/pythong)
 
 
@@ -76,6 +78,9 @@ Kaggle is a home for data scientists to collaborate over data! It's also a host 
 Here is a list of my submissions!
 - [0] I’m currently developing a [Connect 4 Reinforcement Learning Agent]() as my first competition submission!
 
+
+### 📜 GitHub Activity <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
+---
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 2. 🎉 Merged PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
