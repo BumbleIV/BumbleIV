@@ -36,7 +36,7 @@
 <img align="left" alt="git" width="32px" src="https://unpkg.com/simple-icons@v6/icons/git.svg" /> 
 <img align="left" alt="github" width="32px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
 
-&nbsp;
+&nbsp;<br/>
 #### Connect with me! 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/davidcodylingan/)
 
