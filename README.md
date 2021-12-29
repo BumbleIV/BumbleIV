@@ -74,6 +74,10 @@ Kaggle is a home for data scientists to collaborate over data! It's also a host 
 Here is a list of my submissions!
 - [0] I’m currently developing a [Connect 4 Reinforcement Learning Agent]() as my first competition submission!
 
+<!--START_SECTION:activity-->
+
+
+
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147622794-a9972e36-4c48-4df1-a22a-22f6c438d6ae.png" /> 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147622797-cbda5e5f-ee49-4c0c-9bcb-b4f667182407.png" /> 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147622799-f3d773be-5bf8-4478-b1fb-eba59496e4ce.png" /> 
