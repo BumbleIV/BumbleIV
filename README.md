@@ -14,7 +14,7 @@
 
 
 ---
-#### Programming Languages, Frameworks, Tools 
+#### 🖥 Programming Languages, Frameworks, Tools 
 
 <img align="left" alt="python" width="32px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> 
 <img align="left" alt="flask" width="32px" src="https://unpkg.com/simple-icons@v6/icons/flask.svg" /> 
@@ -37,7 +37,7 @@
 <img align="left" alt="github" width="32px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
 
 &nbsp;<br/>
-#### Connect with me! 
+#### 🔗 Connect with me! 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/davidcodylingan/)
 
 ### 👍 About Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
