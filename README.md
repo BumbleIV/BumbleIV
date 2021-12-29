@@ -12,8 +12,7 @@
 
 ### 👋  Hello! I'm David Cody. <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
 
-[![Spotify](https://bumbleiv.vercel.app/api/spotify)](https://open.spotify.com/user/pythong)
-
+[![Spotify](https://novatorem-bumbleiv.vercel.app/api/spotify)](https://open.spotify.com/user/pythong)
 
 
 ---
