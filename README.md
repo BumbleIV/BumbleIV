@@ -65,9 +65,9 @@
 
 ### 🏆 Accomplishments <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
-🛩  In May of 2021, I became [1 of 200 recipients](https://lockheedmartin.com/content/dam/lockheed-martin/eo/documents/community/stem/2021/stem-winners-2021.pdf) studying engineering or computer science at a 4-year college or university of a $10,000 scholarship (renewable up to $40,000) and an internship offer from Lockheed Martin. **(I am still searching for other 2022 summer internship opportunities!)**
+🛩  In May of 2021, I was **awarded by Lockheed Martin a $40,000 scholarship and internship offer for 200 recipients out of 6000+ applicants** studying engineering or computer science at a 4-year college or university based on academic success and leadership
 
-👓 In August of 2021, Michigan State University's Honors College awarded me as 1 of 200 incoming freshmen with academic records in top 1 percent of the incoming class a paid undergraduate research position for any Michigan State University laboratory of my choice. 
+👓 In August of 2021, I was awarded by Michigan State University's Honors College a **paid undergraduate research position for 200 recipients out of 9800+ incoming freshmen** for maintaining high school academic records in top 1 percent of incoming class.
 
 ### 🔬 Research <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
