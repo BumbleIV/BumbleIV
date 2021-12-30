@@ -53,7 +53,7 @@
 
 ### 👍 About Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
-**📕 Honors College freshman at Michigan State University pursuing a double degree in Computer Science and Statistics.**
+**📕 Honors College freshman at Michigan State University pursuing double degree in Computer Science and Statistics.**
 
 **🔭 Actively seeking 2022 summer internship opportunities for software engineering or data science.**
 
