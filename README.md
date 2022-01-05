@@ -89,6 +89,18 @@ Here is a list of my submissions!
 ### 📜 Other Activity <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
 
+   
+<details>
+  <summary>:brain: Currently Learning & Reviewing </summary>
+  
+  <!--START_SECTION:activity-->
+1. 🤖 Machine Learning A-Z™: Hands-On Python & R In Data Science
+2. 🤔 Mastering Data Structures & Algorithms using C and C++
+  <!--END_SECTION:activity-->
+  
+ </details>
+
+
 <details>
   <summary>:zap: GitHub Activity </summary>
   
