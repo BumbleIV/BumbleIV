@@ -93,10 +93,10 @@ Here is a list of my submissions!
 <details>
   <summary>:brain: Currently Learning & Reviewing </summary>
   
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/avenzi/osprey/pull/3) in [avenzi/osprey](https://github.com/avenzi/osprey)
-2. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-  <!--END_SECTION:activity-->
+  <!---->
+1. 🤖 Mastering Data Structures & Algorithms using C and C++
+2. 🤔 Machine Learning A-Z™: Hands-On Python & R In Data Science
+  <!---->
   
  </details>
 
