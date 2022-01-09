@@ -91,11 +91,13 @@ Here is a list of my submissions!
 
    
 <details>
-  <summary>:brain: Currently Learning & Reviewing </summary>
+  <summary>:brain: Currently Learning, Self-Teaching, & Reviewing </summary>
   
   <!---->
-1. 🤖 Mastering Data Structures & Algorithms using C and C++
-2. 🤔 Machine Learning A-Z™: Hands-On Python & R In Data Science
+1. 🤖 Udemy: Mastering Data Structures & Algorithms using C and C++
+2. 🤔 Udemy: Machine Learning A-Z™: Hands-On Python & R In Data Science
+3. 📗 MSU: CSE 477 - Web Application Architecture and Development
+4. 📗 MSU: MTH 314 - Matrix Algebra with Computational Applications
   <!---->
   
  </details>
