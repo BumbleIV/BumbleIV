@@ -98,6 +98,7 @@ Here is a list of my submissions!
 2. 🤔 Udemy: Machine Learning A-Z™: Hands-On Python & R In Data Science
 3. 📗 MSU: CSE 477 - Web Application Architecture and Development
 4. 📗 MSU: MTH 314 - Matrix Algebra with Computational Applications
+5. 📗 MSU: CSE 842 - Natural Language Processing
   <!---->
   
  </details>
