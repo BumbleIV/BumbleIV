@@ -65,7 +65,7 @@
 
 ### 🏆 Accomplishments <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 ---
-🛩  In May of 2021, I was **awarded by Lockheed Martin a $40,000 scholarship and internship offer for 200 recipients out of 6000+ applicants** studying engineering or computer science at a 4-year college or university based on academic success and leadership
+🛩  In May of 2021, I was **awarded by Lockheed Martin a $40,000 scholarship and internship offer for 200 recipients out of 6000+ applicants** studying engineering or computer science at a 4-year college or university based on academic success and leadership.
 
 👓 In August of 2021, I was awarded by Michigan State University's Honors College a **paid undergraduate research position for 200 recipients out of 9800+ incoming freshmen** for maintaining high school academic records in top 1 percent of incoming class.
 
