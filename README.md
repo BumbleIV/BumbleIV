@@ -73,6 +73,9 @@
 ---
 I conduct undergraduate research under [Dr. Ghassemi's](https://www.linkedin.com/in/mohammad-ghassemi-401a843/) Human and Artificial Intelligence Laboratory! The project I lead, [Osprey](https://github.com/BumbleIV/osprey), involves of involves a Raspberry Pi IoT network that collects then streams various forms of haptic data to a server where several RL algorithms or LFD algorithms can be applied utilizing the gathered information to uncover hidden elements and aspects of the IoT's environment. I frequently work with languages, frameworks, and other relevant tools such as **Python, Flask, BASH, TensorFlow, and IoT**. Through this experience, not only have I advanced my technical, quantitative, and analytic skills, I developed the necessary abilities to integrate myself into and solo-lead a project I had zero prior experience for, which gives me the confidence to succeed in any foreign environment I may not be familiar with.
 
+In 2012, The Department of Mathematics at Michigan State University initiated the Mathematics Exchange Program, a one-semester program for talented students from Jilin University, Nankai University and Xi’an Jiaotong University to conduct undergraduate research alongside MSU professors and students.
+For the spring semester of 2022, I will conduct research alongside [Professor Schenker](https://sites.google.com/a/msu.edu/jeffrey-schenker/home) and his work on [Ergodic Quantum Processes](https://github.com/BumbleIV/Quantum-Ergodic-Processes) translating MATLAB scripts modeling quantum channel tunneling to Python.
+
 ### 💻 Internship(s) <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 
 ---
