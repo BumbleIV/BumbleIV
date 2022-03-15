@@ -111,8 +111,8 @@ Here is a list of my submissions!
   <summary>:zap: GitHub Activity </summary>
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/avenzi/osprey/pull/3) in [avenzi/osprey](https://github.com/avenzi/osprey)
-2. ❗️ Opened issue [#6991](https://github.com/simple-icons/simple-icons/issues/6991) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#1](https://github.com/BumbleIV/Osprey/pull/1) in [BumbleIV/Osprey](https://github.com/BumbleIV/Osprey)
+2. 💪 Opened PR [#3](https://github.com/avenzi/osprey/pull/3) in [avenzi/osprey](https://github.com/avenzi/osprey)
 3. 🎉 Merged PR [#1](https://github.com/BumbleIV/MLProjects/pull/1) in [BumbleIV/MLProjects](https://github.com/BumbleIV/MLProjects)
   <!--END_SECTION:activity-->
   
