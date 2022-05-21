@@ -50,7 +50,7 @@
 
 ### 👍 About Me (Work Experience) <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
-**🔭 Software Engineer Intern & Undergraduate Research Fellow for [Information Sciences Institute](https://reu.isi.edu/index.html)**
+**🔭 Software Engineer Intern & Undergraduate Research Fellow for [Information Sciences Institute](https://reu.isi.edu/index.html).**
 
 **📕 Honors College sophomore at Michigan State University pursuing double degree in Computer Science and Statistics.**
 
@@ -74,6 +74,8 @@ I conduct undergraduate research under [Dr. Ghassemi's](https://www.linkedin.com
 ### 💻 Work <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 
 ---
+As an incoming software engineer intern and undergraduate research fellow for the Information Sciences Institute at the University of Southern Califrornia, I will conduct research alongside Professor Mayank Kejriwal on his work regarding Open-World Game Theory. We will study AI systems applied to real-world settings with multiple selfishly-maximizing agents by utilizing Game Theory to model informational complexity of various environments, agent payoffs, decision matrices, and incomplete information. This internship is through the National Science Foundation (NSF)’s [Research Experience for Undergraduates (REU)](https://www.nsf.gov/crssprgm/reu/) program. 
+
 As a Data Analyst for Michigan State University's College of Engineering Career Center, I lead the Diversity, Equity, and Inclusion (DEI) Survey. This project involves the construction of a simple Qualtrics survey to be distributed amongst multiple companies of our interest. These companies will provide numerics on their employee demographics such as race, ethnicity, nationality, etc. that will be processed to visually inform employment-seeking MSU students' decisions. I frequently work with languages, frameworks, and other relevant tools such as **Python to clean the data, SQL to manage and store the data, and Tableau to visualize and further investigate the data.** The motivation behind the DEI Project is to visually inform the decisions employment-seeking MSU students and prevent them from joining misogynistic, xenophobic, homophobic, racist, etc., discriminatory companies.
 
 ### 🕰️ Projects <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
