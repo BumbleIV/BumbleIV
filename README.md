@@ -11,8 +11,12 @@
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147705253-d3f9d43f-0559-4d4e-b55b-0ab5f287bacd.png" /> 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147704862-04267bff-13d7-439f-821d-97ab785a8792.png" /> 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147705253-d3f9d43f-0559-4d4e-b55b-0ab5f287bacd.png" /> 
-<img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147704862-04267bff-13d7-439f-821d-97ab785a8792.png" />  
+<img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147704862-04267bff-13d7-439f-821d-97ab785a8792.png" /> 
+
+
 &nbsp;
+
+
 ### 👋  Hello! I'm David Cody. <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" /> 
 ---
 
@@ -44,11 +48,11 @@
 #### 🔗 Connect with me! 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/davidcodylingan/)
 
-### 👍 About Me <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
+### 👍 About Me (Work Experience) <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
-**📕 Honors College freshman at Michigan State University pursuing double degree in Computer Science and Statistics.**
+**🔭 Software Engineer Intern & Undergraduate Research Fellow for [Information Sciences Institute](https://reu.isi.edu/index.html)**
 
-**🔭 Actively seeking 2022 summer internship opportunities for software engineering or data science.**
+**📕 Honors College sophomore at Michigan State University pursuing double degree in Computer Science and Statistics.**
 
 **🤖 At MSU, I am a [Research Assistant](https://github.com/BumbleIV/BumbleIV#research) for a Machine Learning & Artificial Intelligence lab.**
 
@@ -66,13 +70,20 @@
 ---
 I conduct undergraduate research under [Dr. Ghassemi's](https://www.linkedin.com/in/mohammad-ghassemi-401a843/) Human and Artificial Intelligence Laboratory! The project I lead, [Osprey](https://github.com/BumbleIV/osprey), involves of involves a Raspberry Pi IoT network that collects then streams various forms of haptic data to a server where several RL algorithms or LFD algorithms can be applied utilizing the gathered information to uncover hidden elements and aspects of the IoT's environment. I frequently work with languages, frameworks, and other relevant tools such as **Python, Flask, BASH, TensorFlow, and IoT**. Through this experience, not only have I advanced my technical, quantitative, and analytic skills, I developed the necessary abilities to integrate myself into and solo-lead a project I had zero prior experience for, which gives me the confidence to succeed in any foreign environment I may not be familiar with.
 
-In 2012, The Department of Mathematics at Michigan State University initiated the Mathematics Exchange Program, a one-semester program for talented students from Jilin University, Nankai University and Xi’an Jiaotong University to conduct undergraduate research alongside MSU professors and students.
-For the spring semester of 2022, I will conduct research alongside [Professor Schenker](https://sites.google.com/a/msu.edu/jeffrey-schenker/home) and his work on [Ergodic Quantum Processes](https://github.com/BumbleIV/Quantum-Ergodic-Processes) translating MATLAB scripts modeling quantum channel tunneling to Python.
 
-### 💻 Internship(s) <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
+### 💻 Work <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
 
 ---
-As a Data Analyst intern for Michigan State University's College of Engineering Career Center, I lead the Diversity, Equity, and Inclusion (DEI) Survey. This project involves the construction of a simple Qualtrics survey to be distributed amongst multiple companies of our interest. These companies will provide numerics on their employee demographics such as race, ethnicity, nationality, etc. that will be processed to visually inform employment-seeking MSU students' decisions. I frequently work with languages, frameworks, and other relevant tools such as **Python to clean the data, SQL to manage and store the data, and Tableau to visualize and further investigate the data.** The motivation behind the DEI Project is to visually inform the decisions employment-seeking MSU students and prevent them from joining misogynistic, xenophobic, homophobic, racist, etc., discriminatory companies.
+As a Data Analyst for Michigan State University's College of Engineering Career Center, I lead the Diversity, Equity, and Inclusion (DEI) Survey. This project involves the construction of a simple Qualtrics survey to be distributed amongst multiple companies of our interest. These companies will provide numerics on their employee demographics such as race, ethnicity, nationality, etc. that will be processed to visually inform employment-seeking MSU students' decisions. I frequently work with languages, frameworks, and other relevant tools such as **Python to clean the data, SQL to manage and store the data, and Tableau to visualize and further investigate the data.** The motivation behind the DEI Project is to visually inform the decisions employment-seeking MSU students and prevent them from joining misogynistic, xenophobic, homophobic, racist, etc., discriminatory companies.
+
+### 🕰️ Projects <img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147615459-a2376c05-9da9-4c81-bcfa-d0436df92024.png" />
+
+---
+In 2012, The Department of Mathematics at Michigan State University initiated the Mathematics Exchange Program, a one-semester program for talented students from Jilin University, Nankai University and Xi’an Jiaotong University to conduct undergraduate research alongside MSU professors and students.
+For the spring semester of 2022, I conducted research alongside [Professor Schenker](https://sites.google.com/a/msu.edu/jeffrey-schenker/home) and his work on [Ergodic Quantum Processes](https://github.com/BumbleIV/Quantum-Ergodic-Processes) **refactoring MATLAB scripts modeling quantum channel tunneling to Python** utilizing libraries such as NumPy, SciPy, Matplotlib, scikit-learn, pandas to code compute and simulate the distribution and location of Qubits. all while applying concepts from Linear Algebra, Multivariable Calculus, Differential Equations, and Real Analysis to numerically
+analyze and identify patterns within the Qubit distributions. 
+
+
 
 ### 📊 Kaggle Submissions<img align="right" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147623227-9dbfbed3-bd34-46d7-9a02-ca11fff50add.png" /> 
 ---
@@ -110,8 +121,6 @@ Here is a list of my submissions!
   <!--END_SECTION:activity-->
   
  </details>
-
-
 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147704862-04267bff-13d7-439f-821d-97ab785a8792.png" /> 
 <img align="left" alt="git" width="24px" src="https://user-images.githubusercontent.com/67522964/147705253-d3f9d43f-0559-4d4e-b55b-0ab5f287bacd.png" /> 
